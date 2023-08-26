@@ -1,3 +1,1 @@
-Prem the BOSS
-
-Shiva is the SOS
+First step in the learning of git
